@@ -1,5 +1,4 @@
 #!/bin/sh
-#
 # git-autopush
 #
 git add -A
